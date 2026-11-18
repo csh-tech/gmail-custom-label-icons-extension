@@ -1,0 +1,65 @@
+{
+  "extName": {
+    "message": "Gmail Label Icons"
+  },
+  "extDescription": {
+    "message": "הוספת תמונה או אייקון לתוויות ב-Gmail מתוך תפריט התווית."
+  },
+  "menuItem": {
+    "message": "הוספת תמונה לתווית"
+  },
+  "dialogLabel": {
+    "message": "תווית: $1"
+  },
+  "urlLabel": {
+    "message": "כתובת תמונה (URL)"
+  },
+  "urlPlaceholder": {
+    "message": "הדבק כתובת תמונה"
+  },
+  "or": {
+    "message": "או"
+  },
+  "pickFile": {
+    "message": "בחירת קובץ מהמחשב…"
+  },
+  "localFile": {
+    "message": "קובץ מקומי: $1"
+  },
+  "localHint": {
+    "message": "התמונה נשמרה מקומית ואי אפשר לשנות אותה. כדי להחליף, הסר את התמונה קודם."
+  },
+  "save": {
+    "message": "שמירה"
+  },
+  "cancel": {
+    "message": "ביטול"
+  },
+  "close": {
+    "message": "סגירה"
+  },
+  "remove": {
+    "message": "הסרת תמונה"
+  },
+  "errNeed": {
+    "message": "הדבק כתובת תמונה או בחר קובץ"
+  },
+  "errBig": {
+    "message": "הקובץ גדול מדי (מעל ~300KB)"
+  },
+  "errLoad": {
+    "message": "לא ניתן לטעון את התמונה"
+  },
+  "errRead": {
+    "message": "קריאת הקובץ נכשלה"
+  },
+  "errDownload": {
+    "message": "הורדת התמונה נכשלה"
+  },
+  "errGeneric": {
+    "message": "שגיאה"
+  },
+  "errUrl": {
+    "message": "הזן כתובת תמונה תקינה שמתחילה ב-https://"
+  }
+}

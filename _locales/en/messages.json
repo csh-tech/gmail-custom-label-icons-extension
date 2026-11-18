@@ -1,0 +1,65 @@
+{
+  "extName": {
+    "message": "Gmail Label Icons"
+  },
+  "extDescription": {
+    "message": "Add an image or icon to Gmail labels from the label menu."
+  },
+  "menuItem": {
+    "message": "Add image to label"
+  },
+  "dialogLabel": {
+    "message": "Label: $1"
+  },
+  "urlLabel": {
+    "message": "Image URL"
+  },
+  "urlPlaceholder": {
+    "message": "Paste image URL"
+  },
+  "or": {
+    "message": "or"
+  },
+  "pickFile": {
+    "message": "Choose a file from your computer…"
+  },
+  "localFile": {
+    "message": "Local file: $1"
+  },
+  "localHint": {
+    "message": "The image is stored locally and can’t be edited. To replace it, remove the image first."
+  },
+  "save": {
+    "message": "Save"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "close": {
+    "message": "Close"
+  },
+  "remove": {
+    "message": "Remove image"
+  },
+  "errNeed": {
+    "message": "Paste an image URL or choose a file"
+  },
+  "errBig": {
+    "message": "File is too large (over ~300KB)"
+  },
+  "errLoad": {
+    "message": "Could not load the image"
+  },
+  "errRead": {
+    "message": "Could not read the file"
+  },
+  "errDownload": {
+    "message": "Could not download the image"
+  },
+  "errGeneric": {
+    "message": "Error"
+  },
+  "errUrl": {
+    "message": "Enter a valid image URL starting with https://"
+  }
+}
